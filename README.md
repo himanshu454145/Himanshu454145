@@ -13,7 +13,7 @@
 
 
 - 🌱 I’m currently Research and Development intern @HPE
-- 🤝 I am happy to discuss: Data Structures and Algorithms, Programming Languages, Full Stack Development, Generative AI, Blockchain.
+- 🤝 I am happy to discuss: Data Structures and Algorithms, Programming Languages, Full Stack Development, Blockchain.
 - 💬 Ask me anything about my domain, 📚 always ready to help
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/himanshu454145)
 - 📫 Reach me at **himanshu1484454@gmail.com**
