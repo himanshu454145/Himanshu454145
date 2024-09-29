@@ -17,7 +17,7 @@
 - 💬 Ask me anything about my domain, 📚 always ready to help
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/himanshu454145)
 - 📫 Reach me at **himanshu1484454@gmail.com**
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/himanshu-aa03a3254/)
+- 📄 Know about my experiences on [LinkedIn]((https://www.linkedin.com/in/himanshuuvermaa/))
 
 <h2 align="center">🚀 Technologies & Tools</h2>
 
