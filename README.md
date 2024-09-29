@@ -12,7 +12,7 @@
 </p>
 
 
-- 🌱 I’m currently Research and Development intern @HPE
+- 🌱 Ex-Cloud Developer intern @HPE , Ex-Software Engineer intern @Akeo India
 - 🤝 I am happy to discuss: Data Structures and Algorithms, Programming Languages, Full Stack Development, Blockchain.
 - 💬 Ask me anything about my domain, 📚 always ready to help
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/himanshu454145)
